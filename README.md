@@ -1,3 +1,4 @@
 # Personal_Lab_Python_Learning
 
-- This repo serves as my documentation place for my learning process of python nd its components related to Data World. It might look unorganised or too basisc at first, but brick by brick, i am gonna build my knowledge tower in Python.
+🧪 This repository serves as a sandbox for my personal learning and experimentation with Python and data-related technologies.
+While some components may appear basic or loosely structured, they represent foundational concepts and tools I explore, test, and iterate on. Many of these snippets or techniques may evolve and be integrated into larger, production-ready projects hosted in separate repositories.
